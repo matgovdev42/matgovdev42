@@ -74,12 +74,3 @@ Me chamo Matheus Tavares Gouveia, tenho 32 anos e sou estudante de Análise e De
 />
 
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matgovdev42&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
