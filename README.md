@@ -39,6 +39,14 @@ Me chamo Matheus Tavares Gouveia, tenho 32 anos e sou estudante de Análise e De
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    />
+<img 
+    align="left" 
+    alt="NodeJS"
+    title="NodeJS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
     align="left" 
