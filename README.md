@@ -9,9 +9,15 @@ Atualmente, estou focado no aprendizado e prática de Salesforce (Admin), desenv
 
 ### Tecnologias
 
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
-<img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" width="40"/>
+<img
+    align="left"
+    alt="SALESFORCE"
+    title="SALESFORCE"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg"
+/>
 
 <img 
     align="left" 
