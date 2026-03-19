@@ -34,6 +34,14 @@ Atualmente, estou focado no aprendizado e prática de Salesforce (Admin), desenv
     src="https://img.shields.io/badge/Flow-Automation-blue.svg"
 />
 
+<img
+    align="left"
+    alt="TRAILHEAD"
+    title="TRAILHEAD"
+    width="90px"
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white.svg"
+/>
 
 <img 
     align="left" 
