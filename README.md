@@ -1,12 +1,17 @@
 # Matheus Gouveia 💻
 
-**`Desenvolvedora Front-end`**
+**`Salesforce Admin`**
 
-Me chamo Matheus Tavares Gouveia, tenho 32 anos e sou estudante de Análise e Desenvolvimento de Sistemas na universidade Cruzeiro do Sul e também curso Desenvolvimento Front-end pela EBAC. Atualmente, estou focado no aprendizado e prática de tecnologias como HTML, CSS, JavaScript, React e Node.js, com o objetivo de me tornar um desenvolvedor completo.
+Me chamo Matheus Tavares Gouveia, tenho 32 anos e sou estudante de Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul.
+Atualmente, estou focado no aprendizado e prática de Salesforce (Admin), desenvolvendo habilidades em automação com Flow, modelagem de dados e gestão de CRM, além de cursar Desenvolvimento Front-end pela EBAC.
 
 ---
 
-### Linguagens e Tecnologias
+### Tecnologias
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+<img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" width="40"/>
 
 <img 
     align="left" 
@@ -32,53 +37,4 @@ Me chamo Matheus Tavares Gouveia, tenho 32 anos e sou estudante de Análise e De
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-    />
-<img 
-    align="left" 
-    alt="NodeJS"
-    title="NodeJS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
 
