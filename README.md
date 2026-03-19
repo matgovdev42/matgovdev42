@@ -29,7 +29,7 @@ Atualmente, estou focado no aprendizado e prática de Salesforce (Admin), desenv
     align="left"
     alt="FLOW"
     title="FLOW"
-    width="50px"
+    width="90px"
     style="padding-right: 10px;" 
     src="https://img.shields.io/badge/Flow-Automation-blue.svg"
 />
