@@ -14,7 +14,7 @@ Atualmente, estou focado no aprendizado e prática de Salesforce (Admin), desenv
     align="left"
     alt="SALESFORCE"
     title="SALESFORCE"
-    width="30px"
+    width="50px"
     style="padding-right: 10px;" 
     src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg"
 />
